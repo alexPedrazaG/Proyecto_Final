@@ -442,18 +442,18 @@ Este gráfico hay un símbolo de información que muestra:
 
 Ciertos días del mes presentan ventas totales significativamente más altas, destacando los días:
 
-- 14: 13.768,63 €
-- 3: 13.102,31 €
-- 15: 12.778,83 €
+- Día 14: 13.768,63 €
+- Día 3: 13.102,31 €
+- Día 15: 12.778,83 €
 
 Estos días podrían coincidir con momentos clave del ciclo económico de los hogares (inicio, mediados y segunda semana del mes), donde tiende a haber mayor liquidez o acciones promocionales.
 
 **5. Evolución por día del mes por el promedio de ventas y cupones usados (Gráfico de líneas)**  
 Los mismos días con mayor venta también registran un uso elevado de cupones:
 
-- 3: 4.345 
-- 14: 4.295
-- 15: 4.020 
+- Día 3: 4.345 
+- Día 14: 4.295
+- Día 15: 4.020 
 
 Esto sugiere que las promociones son más efectivas cuando se lanzan en días de alto flujo natural, amplificando su impacto comercial.
 
