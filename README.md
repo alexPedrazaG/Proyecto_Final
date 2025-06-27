@@ -36,6 +36,9 @@ En este proyecto es necesario utilizar:
 - Readme del proyecto.
 - Correcta organización del repositorio de Github
 
+*Importante: Faltarían añadir en las carpetas los ficheros: causal_data.csv, transaction_data.csv y archivo_limpio_causal.csv que por volumetría no me deja subirlo. De todas formas lo asjuntaré en el .zip*
+
+
 ## 📊 Análisis de proyecto
 ### 1. Introducción y Preparación de los Datos
 Se ha llevado a cabo un Análisis Exploratorio de Datos (EDA) a partir del historial de compras durante dos años de un grupo de 2.500 hogares en un supermercado. Las fechas incluidas en el conjunto de datos se expresaban como un contador de días, por lo que se ha asumido que el día 0 corresponde al 01/01/2017, para poder traducir estos valores a un calendario real. En la fase inicial, se procedió a una limpieza exhaustiva de los datos dónde se han cambiado formatos, se han borrado campos que no eran necesarios, se han creado nuevos derivados de la información original, se ha filtrado el fichero, se han control de nulos...
