@@ -19,10 +19,10 @@ En este proyecto debes demostrar los conocimientos que has adquirido a lo largo 
 ## 🛠️ Instalación y Requisitos
 En este proyecto es necesario utilizar:
 
-• Python 3.13.2 (es la versión que he utilizado para hacer los ejercicios)
-• Librerias: Pandas, Numpy y Locale
-• Visual Studio Code
-• Power BI
++ Python 3.13.2 (es la versión que he utilizado para hacer los ejercicios)
++ Librerias: Pandas, Numpy y Locale
++ Visual Studio Code
++ Power BI
 
 ## 🎯 Criterios
 - Requisitos mínimos del conjunto de datos.
@@ -52,7 +52,7 @@ Además, el dashboard ha sido optimizado tanto para visualización en escritorio
 ### 3. Resumen General (General Summary)
 El objetivo principal de esta pestaña es ofrecer una visión panorámica del rendimiento general de las ventas.
 
-**Indicadores Clave (KPIs)**
+**Indicadores Clave (KPIs)**  
 Se muestran 4 tarjetas con métricas agregadas:
 
 - Ventas Totales: 346.981,45 €
