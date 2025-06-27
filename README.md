@@ -36,7 +36,7 @@ En este proyecto es necesario utilizar:
 - Readme del proyecto.
 - Correcta organización del repositorio de Github
 
-*Importante: Faltarían añadir en las carpetas los ficheros: causal_data.csv, transaction_data.csv y archivo_limpio_causal.csv que por volumetría no me deja subirlo. De todas formas lo asjuntaré en el .zip*
+*Importante: Faltarían añadir 3 ficheros en las carpetas correspondientes, que por volumetría no me deja subirlo. De todas formas lo adjuntaré en el .zip y esos ficheros son: causal_data.csv, transaction_data.csv y archivo_limpio_causal.csv*
 
 
 ## 📊 Análisis de proyecto
