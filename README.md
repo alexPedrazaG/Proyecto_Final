@@ -62,8 +62,8 @@ Se muestran 4 tarjetas con métricas agregadas:
 
 Estas métricas permiten comprender rápidamente el alcance y volumen de operaciones del supermercado.
 
-**Gráficos y Visualizaciones**
-**1. Ventas por Tienda (Gráfico de barras)**
+**Gráficos y Visualizaciones**  
+**1. Ventas por Tienda (Gráfico de barras)**  
 Este gráfico permite identificar las tiendas más rentables. Destacan:
 
 - Tienda 406: 22.381,2 €
@@ -72,7 +72,7 @@ Este gráfico permite identificar las tiendas más rentables. Destacan:
 
 Este análisis permite detectar puntos de venta con mejor desempeño y sirve como base para estrategias de expansión o refuerzo.
 
-**2. Ventas por Semana (Gráfico lineal)**
+**2. Ventas por Semana (Gráfico lineal)**  
 Se visualiza la evolución semanal de las ventas. Las semanas más destacadas son:
 
 - Semana 92: 5.349,08 €
@@ -81,7 +81,7 @@ Se visualiza la evolución semanal de las ventas. Las semanas más destacadas so
 
 Este patrón puede ayudar a identificar estacionalidades o efectos de campañas específicas.
 
-**3. Ventas por Tipo de Campaña (Gráfico circular)**
+**3. Ventas por Tipo de Campaña (Gráfico circular)**  
 Este gráfico muestra claramente la efectividad de las campañas promocionales:
 
 - Campaña Tipo A: 328.570 € (claramente dominante)
@@ -90,7 +90,7 @@ Este gráfico muestra claramente la efectividad de las campañas promocionales:
 
 El dominio de la campaña tipo A sugiere una oportunidad para replicar su enfoque en otras tiendas o períodos.
 
-**Filtros Interactivos**
+**Filtros Interactivos**  
 Se han incluido cuatro segmentadores que permiten analizar los gráficos de manera personalizada:
 
 - Tienda
@@ -100,7 +100,7 @@ Se han incluido cuatro segmentadores que permiten analizar los gráficos de mane
 
 Estos filtros facilitan el análisis dinámico según el criterio del usuario y favorecen una toma de decisiones más informada.
 
-**Conclusiones del Resumen General**
+**Conclusiones del Resumen General**  
 + Existe una alta concentración de ventas en un pequeño número de tiendas, lo que puede indicar ubicaciones estratégicamente exitosas.
 + Las ventas semanales presentan picos significativos, que podrían estar asociados a campañas o eventos externos (festivos, promociones).
 + La campaña tipo A es claramente la más efectiva, representando la gran mayoría de las ventas, lo que justifica un análisis más profundo de sus características.
@@ -108,8 +108,8 @@ Estos filtros facilitan el análisis dinámico según el criterio del usuario y 
 ###  4. Análisis de Producto (Product Analysis)
 El objetivo de esta pestaña es analizar el rendimiento de los productos a nivel individual, por departamento y por valor generado. Este análisis permite identificar qué artículos y categorías aportan mayor volumen de ventas, ya sea en cantidad de unidades o en términos monetarios.
 
-**Gráficos y Visualizaciones**
-**1. Productos más vendidos (Gráfico de barras)**
+**Gráficos y Visualizaciones**  
+**1. Productos más vendidos (Gráfico de barras)**  
 Este gráfico muestra los productos con mayor volumen de unidades vendidas. Permite detectar aquellos artículos con mayor rotación en el supermercado. Los productos destacados son:
 
 - Producto 1082185: 3.396 unidades vendidas
@@ -118,7 +118,7 @@ Este gráfico muestra los productos con mayor volumen de unidades vendidas. Perm
 
 Esto es útil para identificar los productos de alta demanda, clave para una correcta gestión del inventario.
 
-**2. Top 10 departamentos por ventas (Gráfico circular)**
+**2. Top 10 departamentos por ventas (Gráfico circular)**  
 Este gráfico refleja qué departamentos generan el mayor ingreso total, lo cual ayuda a entender qué secciones del supermercado son más relevantes a nivel de facturación. Destacan:
 
 - GROCERY con 137.898,50 €
@@ -127,7 +127,7 @@ Este gráfico refleja qué departamentos generan el mayor ingreso total, lo cual
 
 Estos datos pueden orientar decisiones estratégicas en cuanto a promociones, distribución del espacio en tienda o enfoque comercial.
 
-**3. Productos con Mayor Facturación (Gráfico de barras)**
+**3. Productos con Mayor Facturación (Gráfico de barras)**  
 Aquí se analizan los productos que, aunque no necesariamente se venden en mayor cantidad, generan más ingresos totales. Esta métrica es clave para evaluar el impacto económico de cada producto en las ventas generales. Los productos con mayor recaudación son:
 
 - Producto 916122: 3.527,44 €
@@ -136,7 +136,7 @@ Aquí se analizan los productos que, aunque no necesariamente se venden en mayor
 
 Este enfoque ayuda a identificar productos con mayor margen o precio unitario alto.
 
-**4. Tabla Resumen de Productos**
+**4. Tabla Resumen de Productos**  
 Esta tabla complementaria ofrece una visión detallada por producto, agrupando la siguiente información:
 
 - Departamento al que pertenece el producto
@@ -147,7 +147,7 @@ Esta tabla complementaria ofrece una visión detallada por producto, agrupando l
 
 Esta tabla es especialmente útil para combinar información de cantidad y valor económico, permitiendo así detectar patrones relevantes por categoría o marca.
 
-**Filtros Interactivos**
+**Filtros Interactivos**  
 Se han incluido cuatro segmentadores que permiten analizar los gráficos de manera personalizada:
 
 - Tienda
@@ -157,7 +157,7 @@ Se han incluido cuatro segmentadores que permiten analizar los gráficos de mane
 
 Gracias a estos filtros, el usuario puede enfocar el análisis en períodos o tiendas concretas, o incluso evaluar el efecto de campañas específicas sobre el comportamiento de los productos.
 
-**Conclusión del Análisis de Producto**
+**Conclusión del Análisis de Producto**  
 + Algunos productos tienen una alta rotación, lo que los convierte en piezas clave para mantener la fidelidad del cliente y asegurar disponibilidad constante.
 + Otros, en cambio, generan altos ingresos pese a venderse en menor cantidad, lo cual puede estar asociado a un mayor precio unitario o margen comercial.
 + A nivel de departamentos, los datos indican que “Grocery”, “Meat” y “Produce” son las áreas más rentables, por lo que deberían recibir especial atención en campañas de marketing y gestión de stock.
@@ -167,8 +167,8 @@ Esta información puede ser aprovechada para optimizar el surtido, negociar con 
 ###  5. Precios y descuentos (Price & Discounts)
 Esta sección tiene como objetivo analizar el impacto que tienen los precios, los descuentos promocionales y el uso de cupones en las ventas, con especial atención en cómo varían entre departamentos y cómo influyen en el comportamiento del consumidor.
 
-**Gráficos y Visualizaciones**
-**1. Ahorro promedio por unidad y por departamento (Gráfico de barras apiladas)**
+**Gráficos y Visualizaciones**  
+**1. Ahorro promedio por unidad y por departamento (Gráfico de barras apiladas)**  
 Este gráfico compara tres valores clave:
 
 - Precio promedio pagado por el cliente
@@ -183,7 +183,7 @@ Los departamentos están ordenados de forma ascendente según el ahorro medio. L
 
 Este análisis permite identificar los sectores donde las promociones han tenido mayor impacto directo en el precio final pagado por el cliente.
 
-**2. Ventas vs. Precio Promedio por Departamento (Gráfico de dispersión con Tamaño por Cupones Usados)**
+**2. Ventas vs. Precio Promedio por Departamento (Gráfico de dispersión con Tamaño por Cupones Usados)**  
 Este gráfico bidimensional representa:
 
 - Eje X: Precio promedio del departamento
@@ -199,7 +199,7 @@ Se incluyen además notas informativas dentro del gráfico para facilitar su int
 
 Este gráfico permite identificar qué departamentos combinan un precio competitivo con un alto volumen de ventas y una fuerte influencia de cupones.
 
-**3. Descuento total minorista por departamento (Gráfico de barras)**
+**3. Descuento total minorista por departamento (Gráfico de barras)**  
 Se visualiza el total de descuentos otorgados directamente por los minoristas, agrupado por departamento. Solo se muestran aquellos que han recibido descuentos, gracias a un filtro aplicado. Destacan:
 
 - GROCERY: 36.277,11 €
@@ -208,7 +208,7 @@ Se visualiza el total de descuentos otorgados directamente por los minoristas, a
 
 Estos valores muestran dónde se concentra el esfuerzo promocional por parte de los comercios.
 
-**4. Cupones coincidentes por departamento (Gráfico de barras)**
+**4. Cupones coincidentes por departamento (Gráfico de barras)**  
 Aquí se muestran los departamentos en los que se han aplicado cupones coincidentes (es decir, que coincidían con el producto comprado). Se ha filtrado el gráfico para mostrar solo departamentos con más de un cupón coincidente. Destacan:
 
 - GROCERY: 774 cupones coincidentes
@@ -217,7 +217,7 @@ Aquí se muestran los departamentos en los que se han aplicado cupones coinciden
 
 Esto refleja la intensidad promocional basada en cupones por categoría de producto.
 
-**5. Ventas con y sin uso de cupones (Gráfico circular)**
+**5. Ventas con y sin uso de cupones (Gráfico circular)**  
 Este gráfico ilustra el peso de las ventas realizadas con cupones respecto al total:
 
 - Ventas con cupón: 5.766,57 €
@@ -225,7 +225,7 @@ Este gráfico ilustra el peso de las ventas realizadas con cupones respecto al t
 
 Aunque los cupones están presentes, su impacto en el total de las ventas es aún limitado.
 
-**Filtros Interactivos**
+**Filtros Interactivos**  
 Se han incorporado cuatro segmentadores que permiten personalizar el análisis según diferentes dimensiones temporales y comerciales:
 
 - Tienda
@@ -235,7 +235,7 @@ Se han incorporado cuatro segmentadores que permiten personalizar el análisis s
 
 Estos filtros permiten explorar cómo cambian los patrones de descuentos y ahorro dependiendo del momento o ubicación, mejorando la toma de decisiones.
 
-**Conclusión del Análisis de Precios y Descuentos**
+**Conclusión del Análisis de Precios y Descuentos**  
 + Los descuentos han sido particularmente significativos en los departamentos SEAFOOD y MEAT, donde los clientes han conseguido el mayor ahorro promedio por unidad.
 + GROCERY es el departamento con mayor volumen de cupones utilizados y descuentos minoristas, lo que indica una estrategia promocional intensiva.
 + A pesar de la alta cantidad de cupones usados en algunos departamentos, la proporción de ventas realizadas con cupones sigue siendo baja en comparación con las ventas totales (menos del 2%).
@@ -246,8 +246,8 @@ Este análisis puede ser útil para ajustar las estrategias de pricing y promoci
 ###  6. Clientes y Demografía (Customers & Demographics)
 Esta sección tiene como finalidad comprender cómo varía el comportamiento de compra entre diferentes tipos de hogares según su edad, nivel de ingresos y tamaño familiar. El análisis permite detectar patrones de consumo asociados a grupos demográficos específicos y evaluar su impacto en las ventas y el uso de cupones.
 
-**Visualizaciones y Análisis**
-**1. Ventas totales por grupo de edad (Gráfico de barras)**
+**Visualizaciones y Análisis**  
+**1. Ventas totales por grupo de edad (Gráfico de barras)**  
 Este gráfico permite visualizar el total de ventas generadas por cada grupo de edad. Los grupos con mayor participación en las ventas son:
 
 - 45-54 años: 152.193,52 €
@@ -256,7 +256,7 @@ Este gráfico permite visualizar el total de ventas generadas por cada grupo de 
 
 Esto sugiere que los hogares en edad media son los principales impulsores del consumo en el supermercado.
 
-**2. Ventas totales por nivel de ingreso (Gráfico de barras)**
+**2. Ventas totales por nivel de ingreso (Gráfico de barras)**  
 Aquí se analiza el total de ventas según los ingresos del hogar. Se destacan:
 
 - 50-74K: 109.961,59 €
@@ -265,7 +265,7 @@ Aquí se analiza el total de ventas según los ingresos del hogar. Se destacan:
 
 Los hogares con ingresos medios representan el mayor volumen de ventas, lo cual es coherente con un perfil de consumidores habituales y estables.
 
-**3. Ventas totales por tamaño de hogar (Gráfico de barras)**
+**3. Ventas totales por tamaño de hogar (Gráfico de barras)**  
 Este gráfico muestra cómo varía el consumo según el número de personas por hogar. Se observa que:
 
 - Hogares de 2 personas: 132.100,56 €
@@ -274,7 +274,7 @@ Este gráfico muestra cómo varía el consumo según el número de personas por 
 
 Los hogares pequeños (1-2 miembros) concentran la mayor parte del consumo, lo que podría influir en decisiones sobre formatos de productos o promociones.
 
-**4. Ventas y uso de cupones por nivel de ingreso y grupo de edad (Gráfico de dispersión)**
+**4. Ventas y uso de cupones por nivel de ingreso y grupo de edad (Gráfico de dispersión)**  
 Este gráfico hay un símbolo de información que muestra:
 
 - Eje X: Nivel de ingresos
@@ -290,7 +290,7 @@ Algunos hallazgos clave:
 
 Este gráfico permite visualizar la interacción entre poder adquisitivo, edad y comportamiento promocional.
 
-**5. Tabla Resumen Demográfica**
+**5. Tabla Resumen Demográfica**  
 La tabla final ofrece una vista detallada de cada combinación de grupo demográfico con las siguientes métricas:
 
 - Grupo de edad
@@ -302,7 +302,7 @@ La tabla final ofrece una vista detallada de cada combinación de grupo demográ
 
 Es una herramienta clave para realizar análisis comparativos y segmentar al cliente con mayor precisión.
 
-**Filtros Interactivos**
+**Filtros Interactivos**  
 Para facilitar un análisis más detallado y personalizado, se han incorporado los siguientes segmentadores:
 
 - Tienda
@@ -312,7 +312,7 @@ Para facilitar un análisis más detallado y personalizado, se han incorporado l
 
 Estos filtros permiten realizar cruces entre distintas dimensiones y entender cómo se comportan los distintos perfiles de clientes en contextos específicos.
 
-**Conclusión del Análisis de Clientes y Demografía**
+**Conclusión del Análisis de Clientes y Demografía**  
 + Los clientes más activos en términos de ventas pertenecen principalmente al grupo de edad 45-54 años, lo que sugiere que es un perfil prioritario para estrategias de fidelización.
 + Los hogares con ingresos medios (50-74K) y tamaños pequeños (1-2 personas) generan la mayor parte de las ventas, por lo que las campañas y promociones podrían adaptarse mejor a este perfil.
 + El uso de cupones es significativo incluso en niveles bajos y medios de ingresos, lo que indica una alta receptividad a promociones en diversos segmentos económicos.
@@ -324,8 +324,8 @@ Este análisis demográfico es esencial para personalizar estrategias de marketi
 ###  7. Análisis de Campañas (Analysis of Promotional Campaigns)
 Esta sección busca evaluar la efectividad de las campañas promocionales, considerando el volumen de ventas, la cantidad de cupones canjeados y la estacionalidad. Se pretende identificar cuáles campañas y períodos del año han tenido mayor impacto comercial.
 
-**Visualizaciones y Análisis**
-**1. Cupones coincidentes vs. Ventas estacionales (Gráfico de dispersión con tamaño por cantidad vendida)**
+**Visualizaciones y Análisis**  
+**1. Cupones coincidentes vs. Ventas estacionales (Gráfico de dispersión con tamaño por cantidad vendida)**  
 Este gráfico hay un símbolo de información que muestra:
 
 - Eje X: Recuento de cupones coincidentes
@@ -341,7 +341,7 @@ Permite entender el impacto del uso de cupones según la temporada. Se destacan:
 
 Esto evidencia que las campañas en verano generaron mayor volumen de ventas y participación.
 
-**2. Participación en campañas por estación (Gráfico de embudo)**
+**2. Participación en campañas por estación (Gráfico de embudo)**  
 Este gráfico muestra la cantidad de interacciones o participaciones en campañas por estación. Resultados clave:
 
 - Summer-18: 47.832
@@ -350,7 +350,7 @@ Este gráfico muestra la cantidad de interacciones o participaciones en campaña
 
 Verano no solo lidera en ventas, sino también en participación, indicando una mayor receptividad del cliente en ese período.
 
-**3. Campañas con más cupones canjeados (Gráfico de barras)**
+**3. Campañas con más cupones canjeados (Gráfico de barras)**  
 Se muestra el total de cupones canjeados agrupados por campaña. Destacan:
 
 - Campaña 18: 46.402
@@ -359,7 +359,7 @@ Se muestra el total de cupones canjeados agrupados por campaña. Destacan:
 
 Estas campañas no solo han logrado difusión, sino una alta conversión mediante cupones.
 
-**4. Evolución de ventas por estación (Gráfico de líneas)**
+**4. Evolución de ventas por estación (Gráfico de líneas)**  
 Muestra cómo variaron las ventas a lo largo de las estaciones del año. Se observa un crecimiento sostenido, con un claro pico en verano:
 
 - Summer-18: 149.820,41 €
@@ -368,7 +368,7 @@ Muestra cómo variaron las ventas a lo largo de las estaciones del año. Se obse
 
 Esto refuerza la estacionalidad como factor clave en la estrategia promocional.
 
-**5. Total de ventas por campaña (Gráfico de barras)**
+**5. Total de ventas por campaña (Gráfico de barras)**  
 Representa la evolución del total de ventas alcanzadas por cada campaña. Sobresalen:
 
 - Campaña 18: 145.363,53 €
@@ -377,7 +377,7 @@ Representa la evolución del total de ventas alcanzadas por cada campaña. Sobre
 
 Esto permite identificar cuáles campañas tuvieron mayor impacto financiero directo.
 
-**Filtros Interactivos**
+**Filtros Interactivos**  
 Para una exploración más detallada y contextualizada, se han habilitado los siguientes segmentadores:
 
 - Tienda
@@ -387,7 +387,7 @@ Para una exploración más detallada y contextualizada, se han habilitado los si
 
 Estos filtros permiten analizar el rendimiento de las campañas según la ubicación y el momento del año, lo que facilita la toma de decisiones futuras.
 
-**Conclusión del Análisis de Campañas**
+**Conclusión del Análisis de Campañas**  
 
 + Summer-18 se consolida como la estación más efectiva en términos de ventas, participación y cantidad de unidades vendidas, lo que indica un alto grado de efectividad de las campañas lanzadas durante ese período.
 + Las campañas numeradas 18, 13 y 8 son las más exitosas tanto en volumen de cupones canjeados como en ventas generadas.
@@ -399,8 +399,8 @@ Este análisis puede utilizarse como base para diseñar futuras campañas, prior
 ###  8. Análisis temporal (Temporal Analysis)
 Esta sección tiene como propósito identificar patrones de comportamiento en el tiempo, analizando cómo varían las ventas y las transacciones a lo largo de los días de la semana y del mes. Esta información es clave para optimizar decisiones operativas como la gestión de personal, promociones específicas o reposición de stock.
 
-**Visualizaciones y Análisis**
-**1. Distribución de ventas por día de la semana (Mapa de calor)**
+**Visualizaciones y Análisis**  
+**1. Distribución de ventas por día de la semana (Mapa de calor)**  
 El análisis revela que los días con mayor volumen de ventas son:
 
 - Viernes: 67.988,20 €
@@ -409,7 +409,7 @@ El análisis revela que los días con mayor volumen de ventas son:
 
 Esto refleja una clara tendencia a realizar compras hacia el final de la semana, posiblemente relacionadas con la preparación del fin de semana o promociones activas en esos días.
 
-**2. Análisis de estacionalidad por mes y día de la semana (Gráfico de columnas apiladas)**
+**2. Análisis de estacionalidad por mes y día de la semana (Gráfico de columnas apiladas)**  
 Este gráfico hay un símbolo de información que muestra:
 
 - Eje X: Día del mes
@@ -424,7 +424,7 @@ Se observa que los siguientes días del mes concentran un mayor volumen de venta
 
 En todos los casos, estas fechas coinciden con días de semana de alta actividad, como jueves y viernes, lo que sugiere un patrón mensual que refuerza los picos semanales.
 
-**3. Frecuencia de transacciones según el día de la semana (Gráfico de barras)**
+**3. Frecuencia de transacciones según el día de la semana (Gráfico de barras)**  
 Los siguientes días de la semana son dónde mayor número de transacciones se producen: 
 
 - Viernes: 3.713 
@@ -433,7 +433,7 @@ Los siguientes días de la semana son dónde mayor número de transacciones se p
 
 Esta alineación con el comportamiento de ventas indica que los picos no se deben a compras más grandes, sino a una mayor afluencia de clientes esos días.
 
-**4. Distribución de ventas por día del mes (Gráfico de dispersión)**
+**4. Distribución de ventas por día del mes (Gráfico de dispersión)**  
 Este gráfico hay un símbolo de información que muestra:
 
 - Eje X: Ventas totales
@@ -448,7 +448,7 @@ Ciertos días del mes presentan ventas totales significativamente más altas, de
 
 Estos días podrían coincidir con momentos clave del ciclo económico de los hogares (inicio, mediados y segunda semana del mes), donde tiende a haber mayor liquidez o acciones promocionales.
 
-**5. Evolución por día del mes por el promedio de ventas y cupones usados (Gráfico de líneas)**
+**5. Evolución por día del mes por el promedio de ventas y cupones usados (Gráfico de líneas)**  
 Los mismos días con mayor venta también registran un uso elevado de cupones:
 
 - 3: 4.345 
@@ -457,7 +457,7 @@ Los mismos días con mayor venta también registran un uso elevado de cupones:
 
 Esto sugiere que las promociones son más efectivas cuando se lanzan en días de alto flujo natural, amplificando su impacto comercial.
 
-**Filtros Interactivos**
+**Filtros Interactivos**  
 Se incluyen cuatro segmentadores que permiten analizar los gráficos de forma dinámica según diferentes ejes temporales y comerciales:
 
 - Tienda
@@ -467,7 +467,7 @@ Se incluyen cuatro segmentadores que permiten analizar los gráficos de forma di
 
 Estos filtros aportan flexibilidad al análisis, permitiendo estudiar picos de actividad según contexto o temporada.
 
-**Conclusión del Análisis de Campañas**
+**Conclusión del Análisis de Campañas**  
 + Las ventas y transacciones se concentran principalmente entre jueves y viernes, lo que convierte estos días en puntos estratégicos para campañas y gestión operativa.
 + Existen días del mes con picos sistemáticos de consumo, como el 3, 14 y 15, que coinciden con alto uso de cupones y podrían estar vinculados a calendarios salariales o hábitos de gasto.
 + El uso de cupones tiende a coincidir con los días de mayor venta, lo que refuerza su eficacia como herramienta promocional si se aplica en los momentos adecuados.
